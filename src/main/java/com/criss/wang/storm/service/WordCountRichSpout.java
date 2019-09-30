@@ -20,7 +20,7 @@ public class WordCountRichSpout extends BaseRichSpout{
 
 	@Override
 	public void nextTuple() {
-		controller.emit(new Values("We can do better"));
+		controller.emit(new Values("We can do better , yes"));
 		try {
 			Thread.sleep(1000);
 		} catch (InterruptedException e) {
