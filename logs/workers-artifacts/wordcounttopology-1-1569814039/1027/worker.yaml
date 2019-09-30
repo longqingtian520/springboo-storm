@@ -1,0 +1,4 @@
+worker-id: 9a247565-8edd-4f98-a00d-a1aec0cbeeae
+logs.users: []
+logs.groups: []
+topology.submitter.user: cloudcentury
